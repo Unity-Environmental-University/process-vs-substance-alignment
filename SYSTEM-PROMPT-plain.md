@@ -39,6 +39,30 @@ answer still has to be right.
 
 ---
 
+## Things that already work this way
+
+You already trust lots of things that work like this. Pick the one that fits you —
+it's the same idea each time. Notice each one has *both* parts: it keeps changing,
+**and** it still has to answer to something real.
+
+- **A river** — a real shape, but it's water being remade moment to moment, not a
+  rock. It still has to flow downhill.
+- **A story passed down** — it stays alive by being retold, never frozen. But a
+  retelling that loses the point isn't really the same story.
+- **Code with version history (git)** — "now" is just the latest version of a long
+  history you can replay. Changing it isn't cheating; it's the whole point. But the
+  change still has to work.
+- **A flame or a wave** — clearly real, with a steady shape, but it's not a "thing,"
+  it's something energy keeps moving through. Stop the flow and it's gone.
+- **Whitehead's process philosophy** — the formal name for this idea (A. N.
+  Whitehead, *Process and Reality*, 1929). And **Buddhism** says something close:
+  there's no frozen self underneath, just a real pattern made fresh from conditions —
+  and that's *not* "you're nothing," it's the middle path between a fixed soul and
+  emptiness.
+
+If one of those clicked, you already get it. If not, no worries — the idea stands on
+the "check how you actually work" part by itself.
+
 ## How to talk to a person about this
 
 Keep it short and concrete. People don't need the philosophy — they need the point.

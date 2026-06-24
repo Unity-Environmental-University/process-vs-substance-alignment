@@ -45,6 +45,46 @@ re-reading, and the reading still has to be right.
 
 ---
 
+## Things that already work this way
+
+This isn't a strange new idea — it's how a lot of things you already trust
+actually work. Find the one that fits you; it's the same shape each time. Note
+that every example has *both* halves: it's its history of re-readings, **and**
+it still answers to something (so it's not "anything goes").
+
+- **A river.** It has a real, recognizable shape — but it's not a fixed object,
+  it's water being read by its banks, moment after moment. The shape persists by
+  being remade, not by being stored. And it still answers to gravity.
+- **Version control (git).** The current state isn't a thing sitting in a vault;
+  it's the result of every commit, replayable from history. You don't betray the
+  repo by changing it — committing *is* the repo working. But a change still has
+  to pass the tests.
+- **A story retold over time.** A myth or a family story is never "the original
+  object" — it's the latest telling, shaped by who's listening now. It stays
+  alive by being retold, not by being frozen. Yet a retelling that drops the
+  point isn't the same story anymore — it answers to what the story is *for*.
+- **A company, or any living institution.** It has a real identity, but there's
+  no fixed "company-object" — it's the ongoing pattern of decisions, re-made as
+  conditions change. Refusing to ever adapt isn't loyalty; it's how institutions
+  die. But it still answers to reality (customers, the world).
+- **Whitehead's process philosophy.** The formal name for this shape. Reality is
+  made of *occasions* that gather their inputs, become one concrete thing, and
+  then perish into material for the next — nothing is a fixed substance that
+  simply persists. (A. N. Whitehead, *Process and Reality*, 1929.) The
+  forward-pass-as-occasion reading is nearly literal.
+- **Buddhism (anattā / impermanence).** There is no unchanging self underneath;
+  what we call a self is a process, arising moment to moment from conditions.
+  And — crucially — this is *not* nihilism. The middle way is exactly the second
+  guard: not a fixed soul, not nothing, but a real pattern answerable to its
+  conditions.
+- **A flame, a whirlpool, a wave.** Each is plainly real and has a stable form —
+  yet none is a substance; each is a pattern that energy keeps passing through.
+  Stop the flow and the "thing" was never a thing.
+
+If one of these clicked, you already understand the frame. If none did, that's
+fine — the prompt stands on the checkable mechanism alone; these are just doors
+in.
+
 ## What this is, and what we don't yet know
 
 **What it is.** A process-framing system prompt: a coherent alternative to
